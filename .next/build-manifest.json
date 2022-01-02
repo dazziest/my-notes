@@ -1,0 +1,56 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-5cd94c89d3acac5f.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/DqdbufTMiN3vnG3h5cRdj/_buildManifest.js",
+    "static/DqdbufTMiN3vnG3h5cRdj/_ssgManifest.js",
+    "static/DqdbufTMiN3vnG3h5cRdj/_middlewareManifest.js"
+  ],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-2b99834efceef160.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-eab312c0bf2a7270.js",
+      "static/chunks/511-93abc86925112b06.js",
+      "static/chunks/pages/index-0cd75fe674d15ef1.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-2b99834efceef160.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-eab312c0bf2a7270.js",
+      "static/css/2ea475c88ffcfa41.css",
+      "static/chunks/pages/_app-5e60da2f8471cd32.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-2b99834efceef160.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-eab312c0bf2a7270.js",
+      "static/chunks/pages/_error-2280fa386d040b66.js"
+    ],
+    "/development/byte-sized": [
+      "static/chunks/webpack-2b99834efceef160.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-eab312c0bf2a7270.js",
+      "static/chunks/511-93abc86925112b06.js",
+      "static/chunks/pages/development/byte-sized-418543c931938e01.js"
+    ],
+    "/development/dart/null-and-empty-variable-check.mark": [
+      "static/chunks/webpack-2b99834efceef160.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-eab312c0bf2a7270.js",
+      "static/chunks/511-93abc86925112b06.js",
+      "static/chunks/pages/development/dart/null-and-empty-variable-check.mark-ead778bf5972ee3a.js"
+    ],
+    "/hobby/home-design/home-design-ideas": [
+      "static/chunks/webpack-2b99834efceef160.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-eab312c0bf2a7270.js",
+      "static/chunks/511-93abc86925112b06.js",
+      "static/chunks/pages/hobby/home-design/home-design-ideas-363e446ec96b4f35.js"
+    ]
+  },
+  "ampFirstPages": []
+}
