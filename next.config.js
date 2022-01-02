@@ -1,5 +1,3 @@
-const isProd = process.env.NODE_ENV === 'production'
-
 const withNextra = require('nextra')({
   theme: 'nextra-theme-docs',
   themeConfig: './theme.config.js',
@@ -7,7 +5,7 @@ const withNextra = require('nextra')({
 
 /** @type {import('next').NextConfig} */
 module.exports = withNextra({
-  assetPrefix: isProd ? 'https://dazziest.github.io' : '',
+  basePath: '/my-notes',
   // i18n: {
   //   locales: ['en', 'id'],
   //   defaultLocale: 'en'
